@@ -15,9 +15,9 @@ Becuase you have a self, you have a right to:
 
 ## Goals
 
-- Create the most acurate model of self ever created
-- Maximize utility to as many people as possible
-- Make available to as many people as possible
+- Create the most acurate model of the human self ever created
+- Optimize information for quality then quantity
+- Optimize user experience for ease of use then audience size
 
 # body
 
